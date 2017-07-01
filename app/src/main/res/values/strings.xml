@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_car_name">[Car name]</string>
+    <string name="default_car_price">[Car price]</string>
+    <string name="default_party_size">\?</string>
+
+    <string name="car_name_hint">Car name...</string>
+    <string name="car_manufacture_hint">Car manufacutre...</string>
+    <string name="car_price_hint">Car price...</string>
+</resources>
